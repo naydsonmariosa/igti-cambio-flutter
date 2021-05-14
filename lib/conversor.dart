@@ -23,7 +23,6 @@ class _ConversorState extends State<Conversor> {
           var resultado = quantReais / cotDolar;
 
           setState(() {
-            // seta o valor do reusltado
             _resultado = 'Com $quantReais é possível comprar ${resultado.toStringAsFixed(2)} dolares a cada $cotDolar';
           });
 
