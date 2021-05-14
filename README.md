@@ -1,6 +1,6 @@
-# conversor_igti
+# conversor monetario IGTI
 
-Trabalho IGTI
+Trabalho pós graduação IGTI
 
 ## Getting Started
 
